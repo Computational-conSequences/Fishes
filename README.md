@@ -1,6 +1,8 @@
 # Fishes
 Finding pseudogenes in fish genomes
 
+## Disclaimer: use at your own risk. No guarantees whatsoever. We present these to try and ensure reproducibility of our work.
+
 ## Downloading genomes:
 To download the fish genomes we worked with, we used NCBI's "datasets" and "dataformat" commands from:
 https://www.ncbi.nlm.nih.gov/datasets/docs/v2/command-line-tools/download-and-install/
